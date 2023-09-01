@@ -1,4 +1,4 @@
-b1-test - new line...
+b1-test - new line... +небольшая правка
 2 микросервиса и IdentityServer 
 
 задача:
